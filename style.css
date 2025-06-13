@@ -1,0 +1,47 @@
+#welcome {
+  background-color: lightgreen;
+}
+
+/* group selector */
+
+body {
+  background-image: url("https://www.ejiltalk.org/wp-content/uploads/2023/08/krystian-tambur-k7rZ8wTfABA-unsplash-scaled.jpg");
+
+  h1,
+  p {
+    color: white;
+    font-family: "Lucida Console", "Courier New ";
+  }
+
+  /* background-color: pink;
+  opacity: 0.9; */
+
+  table,
+  th,
+  td {
+    border: 2px solid;
+    width: 50%;
+    border-collapse: collapse;
+  }
+
+  /*h1 {
+  border: 3px solid purple;
+  border-radius: 20px;
+  padding: 40px;
+} */
+
+  /*syntax in one line*/
+  /*h1.heading {
+  text-decoration: overline purple solid 6px; */
+
+  /*text-decoration: overline underline;
+  text-decoration-color: green;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 10px;
+  
+} */
+  /*
+h1,p {
+  /*font-family: "Lucida Console", "Courier New", monospace; 
+} */
+}
